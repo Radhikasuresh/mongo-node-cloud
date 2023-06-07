@@ -59,3 +59,16 @@ input{
   margin : 10px;
 
 }
+.buttonn{
+  width: 150px;
+  height: 40px;
+  cursor: pointer;
+  background-color: rgba(0, 68, 255, 0.753);
+  border: 1px solid rgba(0, 68, 255, 0.753);
+  color:white;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.buttonn:hover{
+background-color: blue;
+}
